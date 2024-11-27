@@ -1,5 +1,6 @@
 # Login_Register_Simple_BackEnd
 A simple project that implements a simple register and login on a website. Technologies used are Java , Spring, HTMl , CSS, JavaScript . This is a maven project, having the pom.xml for dependencies, and the application.properties for the database connection. 
+![front end explanation](https://github.com/user-attachments/assets/060d2fda-bad4-4dc4-9da1-40db565a882f)
 
 This project implements a simple page to showcase the login and the register of a user. The main page has a hamburger menu, with login or register options available. Not much effort was given in the front end, since its a back end project.
 
